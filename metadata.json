@@ -1,0 +1,6 @@
+{
+  "name": "Smilora Dental Studio",
+  "description": "Boutique dental clinic in Pune offering gentle, editorial-grade dentistry, clear aligners, implants, and smile transformations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
