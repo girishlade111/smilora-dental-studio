@@ -231,3 +231,7 @@ This project is open-sourced under the **MIT License** — see the [LICENSE](LIC
 <div align="center">
 Made with ❤️ for gentle dentistry in Pune
 </div>
+
+---
+
+Built by Girish Lade — [ladestack.in](https://ladestack.in)
